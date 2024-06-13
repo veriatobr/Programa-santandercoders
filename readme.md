@@ -5,3 +5,4 @@
 #...
 # Salvando modificacoes no git;
 * uso do comando git restore
+*comando git push
