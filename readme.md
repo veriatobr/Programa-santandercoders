@@ -4,3 +4,4 @@
 #gitinit iniciado
 #...
 # Salvando modificacoes no git;
+* uso do comando git restore
