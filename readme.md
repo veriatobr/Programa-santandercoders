@@ -11,3 +11,4 @@
 *git checkout `testing` -  cria a brench testing e muda para a mesma
 *git checkout master - retorna para brench master
 *git merge testing -  traz todo material contigo na brench testing para brench master do codigo
+boa.
