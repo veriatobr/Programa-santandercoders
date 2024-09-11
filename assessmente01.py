@@ -51,3 +51,14 @@ lista_alunos = ['junior', 'junior', 'alice', 'cecilia', 'junior', 'carlos', 'car
 
 aluno_mais_participante = aluno_mais_participativo(lista_alunos)
 print(f"O aluno com maior ocorrência na lista é: {aluno_mais_participante}")
+
+
+
+
+
+
+
+
+
+
+glglglglglglglglglgl
